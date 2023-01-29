@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furkanYanteri1
 - 👀 I’m interested in Frontend/ios development.
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on ...
+- 🌱 My current stack is JS,VueJS,CSS-HTML-MySQL,SQLite,PHP and related packaces, tools
+- 💞️ IMFT, I’m learning native IOS development and Firebase 
 - 📫 How to reach me furkanyanteri@gmail.com
