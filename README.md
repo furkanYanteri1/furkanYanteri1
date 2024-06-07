@@ -28,6 +28,7 @@
 <a href="https://dev.to/https://dev.to/furkanyanteri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/furkanyanteri1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkan-yanteri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan yanteri" height="30" width="40" /></a>
 <a href="https://medium.com/@furkanyanteri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkanyanteri" height="30" width="40" /></a>
+<a href="https://furkanyanteri.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" alt="My Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
