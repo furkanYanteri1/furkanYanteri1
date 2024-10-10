@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Yanteri</h1>
-<h3 align="center">A passionate developer from Turkey, who loves solving problems and bringing ideas to life. Mostly focused on web development. Frontend, backend, DBs.</h3>
+<h3 align="center">A passionate Product Manager with a strong development bg from Turkey, who loves solving problems and bringing ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanyanteri1&label=Profile%20views&color=0e75b6&style=flat" alt="furkanyanteri1" /> </p>
 
