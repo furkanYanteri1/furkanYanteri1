@@ -1,38 +1,175 @@
-<h1 align="center">Hi 👋, I'm Furkan Yanteri</h1>
-<h3 align="center">A passionate Product Manager with a strong development bg from Turkey, who loves solving problems and bringing ideas to life.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanyanteri1&label=Profile%20views&color=0e75b6&style=flat" alt="furkanyanteri1" /> </p>
-
-- 🔭 I’m currently developing: [My personal website and a saas android app](https://github.com/furkanYanteri1/my-mern-blog)
-
-- I've developed lots of professional private UIs/projects with **VueJs, Vuetify, PHP, VanillaJs, DHTML**
-
-- 🔭 And also developing websites for small businesses [private](private)
-
-- 🔭 And also developing these management skills [agile, scrum, product ownership](https://agilemanifesto.org/)
-
-- 👨‍💻 All of my projects are available at [..coming soon](..coming soon)
-
-- 📝 I regularly write articles on [..coming soon](..coming soon)
-
-- 🌱 I’m currently learning **MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)**
-
-- 📫 How to reach me **furkanyanteri@gmail.com**
-
-- 📄 Know about my experiences [..coming soon](..coming soon)
-
-- ⚡ Fun: **A French man, an English man and Temel..**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/furkanyanteri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/furkanyanteri1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/furkan-yanteri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan yanteri" height="30" width="40" /></a>
-<a href="https://medium.com/@furkanyanteri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkanyanteri" height="30" width="40" /></a>
-<a href="https://furkanyanteri.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" alt="My Website" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699301346085?e=1769644800&v=beta&t=vjY9e3vyWrwmmm8_I3fQ-I_L_gDRxhNIhw59toDdDq0"
+    width="160"
+    style="border-radius: 50%;"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Furkan Yanteri</h1>
+<h3 align="center">
+Founder @ ObliqueX Global • AI Product Manager • Full-Stack Software Engineer<br/>
+Building enterprise-grade products across web, mobile, and AI
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanyanteri1&" alt="furkanyanteri1" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=furkanyanteri1&label=Profile%20views&color=0e75b6&style=flat" alt="furkanyanteri1" />
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+I’m a **Product-driven Full-Stack Software Engineer and AI Product Manager** with **5+ years of experience** building and delivering **web, mobile, and AI-powered B2B products** in **global enterprise environments**.
+
+I’m currently the **Founder & Owner of ObliqueX Global**, where I lead the development of **license-based native B2B products** as well as **business-specific, tailored digital solutions** for companies across **Europe, the UK, the Middle East, and Australia**.  
+👉 More at: **https://www.obliquex.com**
+
+Previously, I worked at **Pitcher AG**, a global enterprise sales enablement platform, where I spent **3 years** growing from **Full-Stack Software Engineer** into a **Technical Project / Product Manager**, contributing to mission-critical systems used by **Fortune-level clients** such as **Johnson & Johnson and Novartis**.
+
+I also worked as a **Product Owner at Cloudit**, leading the end-to-end development of a modular, multi-product real estate and property management platform from concept to production.
+
+📍 Based in Turkey (Ankara / Istanbul / Izmir)  
+🌍 Extensive experience with global & fully remote teams  
+🗣 English: C1 (professional working proficiency)  
+
+---
+
+## 🚀 What I Do Today
+
+- 🧠 **AI Product Management**  
+  Designing and delivering AI-driven products, automation workflows, and intelligent systems using modern AI APIs, orchestration layers, and data-driven decision models
+
+- 🏗 **Full-Stack Software Engineering**  
+  Hands-on development across frontend, backend, APIs, databases, and cloud infrastructure with production ownership
+
+- 📱 **Mobile & Cross-Platform Systems**  
+  Strong mobile expertise with hands-on experience in **iOS (Swift / SwiftUI)**, **Android (Java)**, and cross-platform architectures
+
+- 🧩 **Enterprise & SaaS Platforms**  
+  API-heavy, integration-driven systems with high reliability, security, and scalability requirements
+
+- 🤝 **Customer & Stakeholder Leadership**  
+  Leading briefings, demos, sprint planning, backlog grooming, and delivery discussions with enterprise and B2B clients
+
+---
+
+## 🏢 Founder Experience — ObliqueX Global
+
+**Founder & CEO | Global**
+
+- Owner and lead of **ObliqueX Global**, delivering **B2B digital products and tailored enterprise solutions**
+- Building and scaling **3 native, license-based B2B products**
+- Delivering **custom business-specific solutions** for companies in:
+  - Germany
+  - United Kingdom
+  - Dubai
+  - Australia
+- Leading end-to-end:
+  - Business strategy
+  - Product design & roadmap
+  - Technical architecture
+  - Development & deployment
+  - Post-launch optimization
+- Products and services include:
+  - Web & mobile platforms
+  - AI-driven business automations
+  - Digital signage systems
+  - Internal planning & workflow software
+- Acting as the main technical and product contact for international clients
+
+---
+
+## 🏗 Professional Experience — Engineering & Product
+
+### 🟣 Pitcher AG — Full-Stack Software Engineer → Technical Project Manager  
+**Global (Turkey / Switzerland / USA)**
+
+**Software Engineering**
+- Designed and implemented scalable frontend architectures using **Vue.js, React.js, TypeScript**, and modern ES6+ patterns
+- Built reusable, high-performance UI components with **Vuetify and custom design systems**
+- Developed full-stack applications using **Node.js, PHP, MySQL, SQLite, MongoDB**
+- Built and maintained **REST & GraphQL API integrations**, including Salesforce integrations
+- Improved frontend and data-layer performance, reducing load times by up to **40%**
+- Maintained and refactored legacy systems (jQuery, vanilla JS, PHP)
+- Led **production deployments** and **zero-downtime release pipelines**
+- Implemented **CI/CD pipelines** using GitHub Actions
+- Enforced code quality standards with **ESLint, Prettier**, and structured review processes
+- Wrote and maintained technical documentation and internal knowledge bases
+
+**Technical Project / Product Management**
+- Led Agile ceremonies: sprint planning, backlog grooming, stand-ups, stakeholder reviews
+- Served as escalation point for high-impact production issues (Tier 2–3)
+- Owned root cause analysis, SLAs, and resolution documentation
+- Led API-driven implementation projects with third-party developers
+- Coordinated global feature releases with distributed teams
+- Delivered measurable improvements using **A/B testing and experimentation**
+- Acted as a bridge between engineering, support, and enterprise customers
+
+---
+
+### 🔵 Cloudit — Product Owner  
+**Turkey / UK**
+
+- Led end-to-end development of a **modular, multi-product property & rental management platform**
+- Owned the full product lifecycle:
+  - Market research
+  - Stakeholder alignment
+  - Roadmap planning
+  - Execution & delivery
+- Coordinated cross-functional teams across design, engineering, and QA
+- Actively involved in:
+  - QA & UAT
+  - API testing
+  - Frontend performance optimization
+- Prioritized features under ambiguity while maintaining delivery velocity
+- Used AI-driven integrations to support key product functionalities
+- Delivered scalable MVPs with long-term technical foundations
+
+---
+
+## 🛠 Tech Stack (Selected)
+
+**Frontend**  
+Vue.js, React, Next.js, TypeScript, JavaScript, Vuetify, Tailwind, Sass
+
+**Backend & APIs**  
+Node.js, PHP, REST, GraphQL, MongoDB, MySQL, SQLite, JWT, OAuth2
+
+**Mobile**  
+iOS (Swift / SwiftUI), Android (Java)
+
+**AI, Automation & Tooling**  
+OpenAI API, LangChain / LLMOps (conceptual), n8n, Zapier, Claude AI, Gemini  
+Midjourney, Kling, Runway (AI-generated asset pipelines)  
+Prompt orchestration, evaluation flows, AI-powered automations
+
+**DevOps & Quality**  
+Git, GitHub, GitHub Actions, CI/CD, Docker, AWS, Vercel  
+ESLint, Prettier, Jest, Vitest
+
+**Product & Delivery**  
+Agile / Scrum, Jira, Confluence, Notion  
+Roadmapping, A/B Testing, Experimentation, Stakeholder Management
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/furkan-yanteri" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://furkanyanteri.com" target="blank">
+  <img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" height="30" width="40" />
+</a>
+<a href="https://www.obliquex.com" target="blank">
+  <img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanyanteri1" alt="furkanyanteri1" />
+</p>
