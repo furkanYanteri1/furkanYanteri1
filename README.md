@@ -41,7 +41,7 @@ I also worked as a **Product Owner at Cloudit**, leading the end-to-end developm
 
 ---
 
-## 🏢 Founder Experience — ObliqueX Global
+## 🏢 Founder Experience - ObliqueX Global
 
 **Founder & CEO | Global**
 
@@ -69,7 +69,7 @@ I also worked as a **Product Owner at Cloudit**, leading the end-to-end developm
 
 ## 🏗 Professional Experience — Engineering & Product
 
-### 🟣 Pitcher AG — Full-Stack Software Engineer → Technical Project Manager  
+### 🟣 [Pitcher AG](https://www.linkedin.com/company/pitcher/) - Full-Stack Software Engineer → Technical Project Manager  
 **Global (Turkey / Switzerland / USA)**
 
 **Software Engineering**
