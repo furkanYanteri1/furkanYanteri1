@@ -1,26 +1,8 @@
-<table>
-<tr>
-<td width="180" align="center">
-
-<img
-  src="[https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699301346085](https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699301346085?e=1769644800&v=beta&t=9pIMEgiXUwiGJVcQbdMVddCHxtkwZC-YEVXgV9GwV8U)"
-  width="140"
-/>
-
-</td>
-<td>
-
-<h1>Hi 👋, I'm Furkan Yanteri</h1>
-
-<strong>
-Founder @ ObliqueX Global • AI Product Manager • Full-Stack Software Engineer<br/>
-Building enterprise-grade products across web, mobile, and AI
-</strong>
-
-</td>
-</tr>
-</table>
-
+# Hi, I'm Furkan Yanteri
+- Founder @ [ObliqueX Global](https://www.obliquex.com)
+- AI Software Product Manager
+- Full-Stack Software Engineer
+- Building enterprise-grade products across web, mobile, and AI.
 ---
 
 ## 👨‍💻 About Me
