@@ -1,20 +1,25 @@
-<p align="center">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699301346085?e=1769644800&v=beta&t=vjY9e3vyWrwmmm8_I3fQ-I_L_gDRxhNIhw59toDdDq0"
-    width="160"
-    style="border-radius: 50%;"
-  />
-</p>
+<table>
+<tr>
+<td width="180" align="center">
 
-<h1 align="center">Hi 👋, I'm Furkan Yanteri</h1>
-<h3 align="center">
+<img
+  src="[https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699301346085](https://media.licdn.com/dms/image/v2/D4D03AQFCPCNS3MAxGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699301346085?e=1769644800&v=beta&t=9pIMEgiXUwiGJVcQbdMVddCHxtkwZC-YEVXgV9GwV8U)"
+  width="140"
+/>
+
+</td>
+<td>
+
+<h1>Hi 👋, I'm Furkan Yanteri</h1>
+
+<strong>
 Founder @ ObliqueX Global • AI Product Manager • Full-Stack Software Engineer<br/>
 Building enterprise-grade products across web, mobile, and AI
-</h3>
+</strong>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=furkanyanteri1&label=Profile%20views&color=0e75b6&style=flat" alt="furkanyanteri1" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -157,19 +162,33 @@ Roadmapping, A/B Testing, Experimentation, Stakeholder Management
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/furkan-yanteri" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://furkanyanteri.com" target="blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" height="30" width="40" />
-</a>
-<a href="https://www.obliquex.com" target="blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/59139373?v=4" height="30" width="40" />
-</a>
+  <!-- Email -->
+  <a href="mailto:furkanyanteri@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">furkanyanteri@gmail.com</span>
+  </a>
 </p>
 
----
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/furkan-yanteri" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">Furkan Yanteri</span>
+  </a>
+</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanyanteri1" alt="furkanyanteri1" />
+<p align="left">
+  <!-- ObliqueX Website -->
+  <a href="https://www.obliquex.com" target="_blank">
+    <img src="https://www.obliquex.com/logo.png" width="22" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">www.obliquex.com</span>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://instagram.com/devtriessomeshit" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="22" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">@devtriessomeshit</span>
+  </a>
 </p>
