@@ -8,8 +8,6 @@ I write the roadmap and then I write the code. Frontend, backend, mobile, LLM in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--yanteri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-yanteri)
 [![Email](https://img.shields.io/badge/Email-furkanyanteri@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:furkanyanteri@gmail.com)
 
-Computer Engineering graduate, based in Turkey, working with distributed teams across Europe, the UK, the Middle East and Australia. English at full professional proficiency.
-
 ---
 
 ## ObliqueX Global
