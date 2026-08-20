@@ -1,8 +1,8 @@
 # Furkan Yanteri
 
-**Founder of ObliqueX Global. Product manager and full stack engineer.**
+**Founder of ObliqueX Global. Product manager and full stack engineer, at the same time.**
 
-I build B2B products end to end: strategy, architecture, code, release, and the client conversations in between. Five years of that in global enterprise environments, now running my own software studio alongside product work.
+I write the roadmap and then I write the code. Frontend, backend, mobile, LLM integration, the database underneath and the deploy pipeline around it, plus the client conversations in between. Five years of that in global enterprise environments, now running my own software studio alongside product work.
 
 [![Website](https://img.shields.io/badge/ObliqueX-obliquex.com-111111?style=flat-square)](https://www.obliquex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--yanteri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-yanteri)
@@ -100,13 +100,35 @@ Applied deep learning to image classification and object detection.
 
 ---
 
-## How I work
+## Both roles, not one after the other
 
-**Product management.** Roadmaps that survive contact with engineering. Discovery and scoping with the people who will actually use the thing. Backlog prioritization when everything is urgent. Agile ceremonies that produce decisions rather than status updates. A/B testing and experiment design. Enterprise stakeholder management, briefings and demos. Delivery ownership through release and post launch iteration.
+Most people pick a side. I did not. I write the roadmap and then I write the code, and I keep both sharp because they feed each other: knowing what a feature actually costs to build changes how I scope it, and sitting in the client meeting changes what I build.
 
-**Engineering.** Frontend, backend, APIs, databases and cloud infrastructure, with production ownership attached. Integration heavy systems where reliability and security are requirements rather than aspirations. Native and cross platform mobile. The willingness to open the container logs at midnight instead of filing a ticket.
+A normal week can be a sprint plan on Monday, an FFmpeg encoding timeout on Tuesday, a Postgres schema on Wednesday, and a client demo on Thursday.
 
-**AI product work.** Designing AI driven products and automation workflows on modern model APIs, orchestration layers and MCP tooling. Prompt orchestration and evaluation flows. Building agent facing infrastructure, which is exactly what GoalT is.
+---
+
+## Engineering, layer by layer
+
+**Frontend.** Vue.js in enterprise production at Pitcher, including reusable component libraries on Vuetify and an internal design system used across the product. React and TypeScript since then, on Vite and Next.js, with Tailwind and shadcn. Three.js when a page needs real 3D. Performance counts as part of the job rather than a later ticket: up to 40 percent faster load times at Pitcher through frontend and data layer work.
+
+**Backend and APIs.** Node.js and Express services, PHP and MySQL on legacy systems still carrying production traffic, Python for the GoalT engine. REST and GraphQL integrations including Salesforce. JWT and OAuth2 for auth, WebSockets where the product needs to be live. The Video Speeder backend runs native FFmpeg inside Docker and derives output bitrate from clip duration and target speed, so the result is guaranteed to fit the platform's storage limit before encoding even starts.
+
+**Mobile.** React Native and Expo on KelimeYap, roughly 900 files, Supabase behind it and an ads plus subscription model on top. Native iOS in Swift and SwiftUI, native Android in Java. Cross platform when that is the right call, native when it is not.
+
+**LLM and AI integration.** More than calling an API with a prompt. GoalT ships an MCP server listed in the official Model Context Protocol registry, plus a Claude Code plugin with hooks and a live dashboard. Its value redistribution layer can hand weighting decisions to an LLM, then validates and renormalizes whatever comes back, so a bad model response cannot corrupt the graph. Anthropic SDK running in production on the Furkan Interior platform. Before all of that, deep learning for image classification and object detection during the BITES internship, with Keras and TensorFlow certification behind it.
+
+**Data.** PostgreSQL through Supabase on most current products, with row level security and auth wired in properly rather than bolted on. MongoDB, MySQL, SQLite and Elasticsearch from earlier work. Schema design driven by how the product actually gets queried, not by how it looks in a diagram.
+
+**Infrastructure and delivery.** Docker, Render, Vercel, AWS. CI/CD on GitHub Actions. Zero downtime production releases at Pitcher, alongside Tier 2 and Tier 3 incident escalation, root cause analysis and SLA response. ESLint, Prettier, Jest and Vitest, and a test suite on GoalT covering the engine, the MCP server and the dashboard.
+
+---
+
+## Product, the other half
+
+Roadmaps that survive contact with engineering. Discovery and scoping with the people who will actually use the thing. Backlog prioritization when everything is urgent. Agile ceremonies that produce decisions rather than status updates. A/B testing and experiment design instead of arguing from opinion. Enterprise stakeholder management, briefings and demos, including standing in front of the client during a production incident. Delivery ownership through release and post launch iteration.
+
+Three sub products from ideation to MVP at Cloudit. Sprint planning, backlog refinement and stakeholder reviews at Pitcher, plus the escalation seat when something broke. At ObliqueX the roadmap and the commits are both mine.
 
 ---
 
@@ -114,12 +136,12 @@ Applied deep learning to image classification and object detection.
 
 | Area | Tools |
 |---|---|
-| Frontend | Vue.js, React, Next.js, TypeScript, JavaScript, Vuetify, Tailwind, Sass |
-| Backend and APIs | Node.js, Express, PHP, Python, REST, GraphQL, WebSockets, JWT, OAuth2 |
+| Frontend | Vue.js, React, Next.js, TypeScript, JavaScript, Vite, Vuetify, Tailwind, shadcn, Three.js, Sass |
+| Backend and APIs | Node.js, Express, PHP, Python, REST, GraphQL, WebSockets, FFmpeg, JWT, OAuth2 |
 | Data | PostgreSQL, Supabase, MongoDB, MySQL, SQLite, Elasticsearch |
 | Mobile | React Native, Expo, iOS (Swift, SwiftUI), Android (Java) |
-| AI and automation | Claude API, OpenAI API, Model Context Protocol, deep learning with Keras and TensorFlow, n8n, Zapier |
-| DevOps and quality | Git, GitHub Actions, CI/CD, Docker, AWS, Vercel, Render, ESLint, Prettier, Jest, Vitest |
+| AI and LLM | Claude API, OpenAI API, Model Context Protocol, MCP server development, Keras, TensorFlow, n8n, Zapier |
+| DevOps and quality | Git, GitHub Actions, CI/CD, Docker, AWS, Vercel, Render, ESLint, Prettier, Jest, Vitest, pytest |
 | Product and delivery | Agile and Scrum, Jira, Confluence, Notion, Figma, Miro, Mixpanel, roadmapping, A/B testing |
 
 ---
