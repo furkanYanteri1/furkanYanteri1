@@ -165,7 +165,7 @@ Every entry below links to its issuer's verification page.
 | [Create a High Performing Team](https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M) | Google | Jul 2026 |
 | [Set and Achieve Team Goals](https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2) | Google | Jul 2026 |
 | [Support Individual Growth and Development](https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT) | Google | Jul 2026 |
-| Google People Management Essentials | Google | Jul 2026 |
+| [Google People Management Essentials | Google | Jul 2026](https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile)
 | [Advanced Business Analysis, CBAP](https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/) | Udemy, Igor Arkhipov | Oct 2024 |
 | [Product Management Masterclass](https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/) | Udemy | Oct 2024 |
 | [Product Management by a Big Tech PM](https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/) | Udemy, Dr Bart Jaworski | Oct 2024 |
