@@ -24,7 +24,7 @@ Active markets: Germany, United Kingdom, United Arab Emirates, Australia, Turkey
 | [Otopact](https://otopact.com) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
 | [KelimeYap](https://obliquex.com/apps/kelimeyap) | iOS and Android word game family, React Native and Expo on Supabase | In development |
 
-Client work covers web and mobile platforms, AI driven business automation, digital signage systems, and internal planning and workflow software.
+Client work covers web and mobile platforms, AI driven business automation, digital signage systems, and internal planning and workflow software. The current engagement is a global sales refactor for a United States based street furniture manufacturer, described below.
 
 ---
 
@@ -45,13 +45,27 @@ GoalT models goals as a directed acyclic graph. Every parent distributes exactly
 - Apache 2.0, with tests covering the engine, the MCP server and the dashboard
 - Runnable Colab notebook, so it can be tried without installing anything
 
-Repository: **[GOAL-T/goaltree](https://github.com/GOAL-T/goaltree)**
+Repository: **[GOAL-T/goaltree](https://github.com/GOAL-T/goaltree)**, under the [GOAL-T](https://github.com/GOAL-T) organization, which I run.
+
+The project is at concept stage and deliberately open to challenge. If the value propagation model looks wrong to you, that is exactly the feedback it needs: open a [discussion](https://github.com/GOAL-T/goaltree/discussions), file an [issue](https://github.com/GOAL-T/goaltree/issues), or read [CONTRIBUTING.md](https://github.com/GOAL-T/goaltree/blob/main/CONTRIBUTING.md) first. Trying it takes one click through the Colab notebook, no install required.
 
 Also on npm: **[mock-quick](https://www.npmjs.com/package/mock-quick)**, a small schema based mock data generator for JavaScript.
 
 ---
 
 ## Selected work
+
+### Urbana, a dealer catalog for street furniture
+
+Working prototype: **[squadz.space](https://squadz.space)**
+
+Part of a wider engagement with a United States based street furniture manufacturer: a full refactor of how they sell globally, sales strategy included, not only the software that carries it.
+
+The prototype is a dual audience catalog. Customers browse and configure, dealers get their own view of the same fifty product range across play structures, benches and seating, fitness stations and shade structures. Each product page carries a configurator for color and finish, a 3D model viewer, technical specifications down to the compliance standard the item is built to, and inquiry routing straight into WhatsApp or email so a lead never has to be retyped.
+
+The part that matters commercially is "See It In Your Space": the customer uploads a photo of their actual site and sees the product placed into it. Selling large outdoor equipment fails at exactly that step, the buyer cannot picture it in the real location, and no amount of studio photography fixes that.
+
+Next.js, React and TypeScript on Tailwind, server rendered, deployed on Vercel. In active development, so the source stays private.
 
 ### Video Speeder, a Canva app
 
