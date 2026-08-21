@@ -55,6 +55,16 @@ Also on npm: **[mock-quick](https://www.npmjs.com/package/mock-quick)**, a small
 
 ## Selected work
 
+### Avfortis
+
+Live on the [App Store](https://apps.apple.com/tr/app/avfortis/id6758888389) and [Google Play](https://play.google.com/store/apps/details?id=com.avfortis), at [avfortis.com](https://www.avfortis.com). A Cloudit product, and the one I run as Technical Product Owner: strategy, roadmap, release planning and the code itself.
+
+Avfortis is a professional system for practicing lawyers in Turkey. Its core is tevkil, the arrangement where one attorney delegates a hearing or a procedural step to a colleague in another city. The app turns that into a managed flow organized by province, district and courthouse, so an attorney can find and instruct a verified colleague at the right courthouse instead of working the phone. Around it sits the rest of the professional layer: colleague search, direct messaging and live chat, forums, article publishing, job and office listings, and a digital profile.
+
+Membership is closed by design. Every account is verified against active bar registration, because none of it works unless the person on the other side is genuinely an attorney. The domain sits under the Turkish Attorneys Act (Avukatlık Kanunu no. 1136), with the professional secrecy duty it imposes, and under the personal data protection law (KVKK no. 6698). Verification, messaging and data retention were designed around those rules rather than retrofitted to them, which is the part that shapes most of the architecture.
+
+Shipped in May 2026 and iterating since, currently on 1.0.15, with AI features in development. Closed source.
+
 ### Urbana, a dealer catalog for street furniture
 
 Working prototype: **[squadz.space](https://squadz.space)**
@@ -96,7 +106,7 @@ A word game family for iOS and Android, React Native and Expo on Supabase, monet
 ### Cloudit
 **Software Product Manager. January 2025 to present. London, United Kingdom.**
 
-Managing end to end development of a software product with three sub products, from ideation to MVP. Market research, stakeholder alignment, roadmap and delivery, staying close to QA, UAT and API testing rather than handing specs over the wall. Prioritizing under real ambiguity while keeping delivery velocity intact. Day to day across BlackBoard, Miro, Notion, Jira, Figma, Mixpanel and SurveyMonkey on the product side, and Vue.js, Pinia, MongoDB, Node.js, Express, Firebase, S3, JWT, WebSockets, Elasticsearch and GitHub Actions on the technical side.
+Managing end to end development of a software product with three sub products, from ideation to MVP, and acting as Technical Product Owner on Avfortis, described above. Market research, stakeholder alignment, roadmap and delivery, staying close to QA, UAT and API testing rather than handing specs over the wall. Prioritizing under real ambiguity while keeping delivery velocity intact. Day to day across BlackBoard, Miro, Notion, Jira, Figma, Mixpanel and SurveyMonkey on the product side, and Vue.js, Pinia, MongoDB, Node.js, Express, Firebase, S3, JWT, WebSockets, Elasticsearch and GitHub Actions on the technical side.
 
 ### Pitcher AG
 **Frontend Developer, then Software Engineer and Technical Project Manager. June 2021 to June 2024. Ankara, Turkey.**
