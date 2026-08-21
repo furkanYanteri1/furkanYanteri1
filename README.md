@@ -179,36 +179,36 @@ Three sub products from ideation to MVP at Cloudit. Sprint planning, backlog ref
 
 ## Certifications
 
-Every entry below links to its issuer's verification page.
+Every entry below links to its issuer's verification page, and so does its thumbnail.
 
 **Product, project and business**
 
-| Certificate | Issuer |
-|---|---|
-| [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/AUXFV5W9MSOQ) | Google |
-| [Foundations of Account Management](https://www.coursera.org/account/accomplishments/verify/G827L3CDUN9N) | Microsoft |
-| [Grow as a Manager](https://www.coursera.org/account/accomplishments/verify/TB7KPNJHAH4U) | Google |
-| [Create a High Performing Team](https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M) | Google |
-| [Set and Achieve Team Goals](https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2) | Google |
-| [Support Individual Growth and Development](https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT) | Google |
-| [Google People Management Essentials](https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile) | Google |
-| [Advanced Business Analysis, CBAP](https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/) | Udemy, Igor Arkhipov |
-| [Product Management Masterclass](https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/) | Udemy |
-| [Product Management by a Big Tech PM](https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/) | Udemy, Dr Bart Jaworski |
-| [Product Strategy](https://www.udemy.com/certificate/UC-f1d0d075-10e2-4c2b-84c2-fe61f3c3a609/) | Udemy, Todd Birzer |
+| Preview | Certificate | Issuer |
+|---|---|---|
+| <a href="https://www.coursera.org/account/accomplishments/verify/AUXFV5W9MSOQ"><img src="assets/certificates/foundations-of-project-management.jpg" width="150" alt="Foundations of Project Management certificate"></a> | [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/AUXFV5W9MSOQ) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.coursera.org/account/accomplishments/verify/G827L3CDUN9N"><img src="assets/certificates/foundations-of-account-management.jpg" width="150" alt="Foundations of Account Management certificate"></a> | [Foundations of Account Management](https://www.coursera.org/account/accomplishments/verify/G827L3CDUN9N) | <img src="assets/logos/microsoft.png" width="16" alt=""> Microsoft |
+| <a href="https://www.coursera.org/account/accomplishments/verify/TB7KPNJHAH4U"><img src="assets/certificates/grow-as-a-manager.jpg" width="150" alt="Grow as a Manager certificate"></a> | [Grow as a Manager](https://www.coursera.org/account/accomplishments/verify/TB7KPNJHAH4U) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M"><img src="assets/certificates/create-a-high-performing-team.jpg" width="150" alt="Create a High Performing Team certificate"></a> | [Create a High Performing Team](https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2"><img src="assets/certificates/set-and-achieve-team-goals.jpg" width="150" alt="Set and Achieve Team Goals certificate"></a> | [Set and Achieve Team Goals](https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT"><img src="assets/certificates/support-individual-growth-and-development.jpg" width="150" alt="Support Individual Growth and Development certificate"></a> | [Support Individual Growth and Development](https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile"><img src="assets/certificates/google-people-management-essentials.jpg" width="150" alt="Google People Management Essentials certificate"></a> | [Google People Management Essentials](https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile) | <img src="assets/logos/google.png" width="16" alt=""> Google |
+| <a href="https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/"><img src="assets/certificates/advanced-business-analysis-cbap.jpg" width="150" alt="Advanced Business Analysis, CBAP certificate"></a> | [Advanced Business Analysis, CBAP](https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy, Igor Arkhipov |
+| <a href="https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/"><img src="assets/certificates/product-management-masterclass.jpg" width="150" alt="Product Management Masterclass certificate"></a> | [Product Management Masterclass](https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
+| <a href="https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/"><img src="assets/certificates/product-management-by-a-big-tech-pm.jpg" width="150" alt="Product Management by a Big Tech PM certificate"></a> | [Product Management by a Big Tech PM](https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy, Dr Bart Jaworski |
+| <a href="https://www.udemy.com/certificate/UC-f1d0d075-10e2-4c2b-84c2-fe61f3c3a609/"><img src="assets/certificates/product-strategy.jpg" width="150" alt="Product Strategy certificate"></a> | [Product Strategy](https://www.udemy.com/certificate/UC-f1d0d075-10e2-4c2b-84c2-fe61f3c3a609/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy, Todd Birzer |
 
 **Engineering, data and AI**
 
-| Certificate | Issuer |
-|---|---|
-| [SQL Foundations](https://www.coursera.org/account/accomplishments/verify/D2OLJBDPE0TX) | Microsoft |
-| [Introduction to Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/1H2WOFIHLDOP) | IBM |
-| [Complete iOS 16 Development with SwiftUI](https://www.udemy.com/certificate/UC-88106e34-77e0-4cde-b44e-22e22deba4a4/) | Udemy |
-| [Machine Learning with Python](https://www.udemy.com/certificate/UC-d1472294-8283-4077-9274-2960eec38a7f/) | Udemy |
-| [Android Development with Java](https://www.udemy.com/certificate/UC-9598144a-a133-4e52-bd8a-b844f6790c53/) | Udemy |
-| [Deep Learning with Keras and TensorFlow](https://www.coursera.org/account/accomplishments/verify/EDLMK92DY4NK) | IBM |
-| [End to End Data Science with KNIME](https://www.udemy.com/certificate/UC-8df52b6a-5b1b-4ab2-ac78-e63ab98467a8/) | Udemy |
-| [Java EE Patterns and Architecture](https://www.udemy.com/certificate/UC-aafb52c9-40d3-4114-90be-f8177fd66ee8/) | Udemy |
+| Preview | Certificate | Issuer |
+|---|---|---|
+| <a href="https://www.coursera.org/account/accomplishments/verify/D2OLJBDPE0TX"><img src="assets/certificates/sql-foundations.jpg" width="150" alt="SQL Foundations certificate"></a> | [SQL Foundations](https://www.coursera.org/account/accomplishments/verify/D2OLJBDPE0TX) | <img src="assets/logos/microsoft.png" width="16" alt=""> Microsoft |
+| <a href="https://www.coursera.org/account/accomplishments/verify/1H2WOFIHLDOP"><img src="assets/certificates/introduction-to-artificial-intelligence.jpg" width="150" alt="Introduction to Artificial Intelligence certificate"></a> | [Introduction to Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/1H2WOFIHLDOP) | <img src="assets/logos/ibm.png" height="15" alt="IBM"> |
+| <a href="https://www.udemy.com/certificate/UC-88106e34-77e0-4cde-b44e-22e22deba4a4/"><img src="assets/certificates/complete-ios-16-development-with-swiftui.jpg" width="150" alt="Complete iOS 16 Development with SwiftUI certificate"></a> | [Complete iOS 16 Development with SwiftUI](https://www.udemy.com/certificate/UC-88106e34-77e0-4cde-b44e-22e22deba4a4/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
+| <a href="https://www.udemy.com/certificate/UC-d1472294-8283-4077-9274-2960eec38a7f/"><img src="assets/certificates/machine-learning-with-python.jpg" width="150" alt="Machine Learning with Python certificate"></a> | [Machine Learning with Python](https://www.udemy.com/certificate/UC-d1472294-8283-4077-9274-2960eec38a7f/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
+| <a href="https://www.udemy.com/certificate/UC-9598144a-a133-4e52-bd8a-b844f6790c53/"><img src="assets/certificates/android-development-with-java.jpg" width="150" alt="Android Development with Java certificate"></a> | [Android Development with Java](https://www.udemy.com/certificate/UC-9598144a-a133-4e52-bd8a-b844f6790c53/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
+| <a href="https://www.coursera.org/account/accomplishments/verify/EDLMK92DY4NK"><img src="assets/certificates/deep-learning-with-keras-and-tensorflow.jpg" width="150" alt="Deep Learning with Keras and TensorFlow certificate"></a> | [Deep Learning with Keras and TensorFlow](https://www.coursera.org/account/accomplishments/verify/EDLMK92DY4NK) | <img src="assets/logos/ibm.png" height="15" alt="IBM"> |
+| <a href="https://www.udemy.com/certificate/UC-8df52b6a-5b1b-4ab2-ac78-e63ab98467a8/"><img src="assets/certificates/end-to-end-data-science-with-knime.jpg" width="150" alt="End to End Data Science with KNIME certificate"></a> | [End to End Data Science with KNIME](https://www.udemy.com/certificate/UC-8df52b6a-5b1b-4ab2-ac78-e63ab98467a8/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
+| <a href="https://www.udemy.com/certificate/UC-aafb52c9-40d3-4114-90be-f8177fd66ee8/"><img src="assets/certificates/java-ee-patterns-and-architecture.jpg" width="150" alt="Java EE Patterns and Architecture certificate"></a> | [Java EE Patterns and Architecture](https://www.udemy.com/certificate/UC-aafb52c9-40d3-4114-90be-f8177fd66ee8/) | <img src="assets/logos/udemy.png" width="16" alt=""> Udemy |
 
 ---
 
