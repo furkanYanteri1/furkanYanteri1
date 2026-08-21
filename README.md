@@ -22,7 +22,7 @@ Active markets: Germany, United Kingdom, United Arab Emirates, Australia, Turkey
 | [Furkan Interior](https://furkaninterior.com) | Booking and operations platform for a commercial cleaning and renovation business | Live, serving real customers |
 | Video Speeder | Canva app that speeds up video beyond the platform's native limit, up to 50x | In Canva app review |
 | [Otopact](https://otopact.com) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
-| KelimeYap | iOS and Android word game family, React Native and Expo on Supabase | In development |
+| [KelimeYap](https://obliquex.com/apps/kelimeyap) | iOS and Android word game family, React Native and Expo on Supabase | In development |
 
 Client work covers web and mobile platforms, AI driven business automation, digital signage systems, and internal planning and workflow software.
 
