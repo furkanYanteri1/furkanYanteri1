@@ -47,6 +47,8 @@ GoalT models goals as a directed acyclic graph. Every parent distributes exactly
 
 Repository: **[GOAL-T/goaltree](https://github.com/GOAL-T/goaltree)**
 
+Also on npm: **[mock-quick](https://www.npmjs.com/package/mock-quick)**, a small schema based mock data generator for JavaScript.
+
 ---
 
 ## Selected work
@@ -157,32 +159,32 @@ Every entry below links to its issuer's verification page.
 
 **Product, project and business**
 
-| Certificate | Issuer | Issued |
-|---|---|---|
-| [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/AUXFV5W9MSOQ) | Google | Jul 2026 |
-| [Foundations of Account Management](https://www.coursera.org/account/accomplishments/verify/G827L3CDUN9N) | Microsoft | May 2026 |
-| [Grow as a Manager](https://www.coursera.org/account/accomplishments/verify/TB7KPNJHAH4U) | Google | Jul 2026 |
-| [Create a High Performing Team](https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M) | Google | Jul 2026 |
-| [Set and Achieve Team Goals](https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2) | Google | Jul 2026 |
-| [Support Individual Growth and Development](https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT) | Google | Jul 2026 |
-| [Google People Management Essentials | Google | Jul 2026](https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile)
-| [Advanced Business Analysis, CBAP](https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/) | Udemy, Igor Arkhipov | Oct 2024 |
-| [Product Management Masterclass](https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/) | Udemy | Oct 2024 |
-| [Product Management by a Big Tech PM](https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/) | Udemy, Dr Bart Jaworski | Oct 2024 |
-| [Product Strategy](https://www.udemy.com/certificate/UC-f1d0d075-10e2-4c2b-84c2-fe61f3c3a609/) | Udemy, Todd Birzer | Oct 2024 |
+| Certificate | Issuer |
+|---|---|
+| [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/AUXFV5W9MSOQ) | Google |
+| [Foundations of Account Management](https://www.coursera.org/account/accomplishments/verify/G827L3CDUN9N) | Microsoft |
+| [Grow as a Manager](https://www.coursera.org/account/accomplishments/verify/TB7KPNJHAH4U) | Google |
+| [Create a High Performing Team](https://www.coursera.org/account/accomplishments/verify/C5G52ZG7GC2M) | Google |
+| [Set and Achieve Team Goals](https://www.coursera.org/account/accomplishments/verify/2679KOD5EQT2) | Google |
+| [Support Individual Growth and Development](https://www.coursera.org/account/accomplishments/verify/3L8LX9ECJSYT) | Google |
+| [Google People Management Essentials](https://www.credly.com/badges/504fa197-abaf-422b-9577-06fe0c41b027/linked_in_profile) | Google |
+| [Advanced Business Analysis, CBAP](https://www.udemy.com/certificate/UC-2df57136-be4d-4be5-bdf9-4b78bde610fc/) | Udemy, Igor Arkhipov |
+| [Product Management Masterclass](https://www.udemy.com/certificate/UC-6389f01d-6f45-4062-9754-126b0eb5851f/) | Udemy |
+| [Product Management by a Big Tech PM](https://www.udemy.com/certificate/UC-235bb739-ad8b-44e9-af56-1860209cd4a9/) | Udemy, Dr Bart Jaworski |
+| [Product Strategy](https://www.udemy.com/certificate/UC-f1d0d075-10e2-4c2b-84c2-fe61f3c3a609/) | Udemy, Todd Birzer |
 
 **Engineering, data and AI**
 
-| Certificate | Issuer | Issued |
-|---|---|---|
-| [SQL Foundations](https://www.coursera.org/account/accomplishments/verify/D2OLJBDPE0TX) | Microsoft | Aug 2026 |
-| [Introduction to Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/1H2WOFIHLDOP) | IBM | Jul 2026 |
-| [Complete iOS 16 Development with SwiftUI](https://www.udemy.com/certificate/UC-88106e34-77e0-4cde-b44e-22e22deba4a4/) | Udemy | May 2025 |
-| [Machine Learning with Python](https://www.udemy.com/certificate/UC-d1472294-8283-4077-9274-2960eec38a7f/) | Udemy | Jan 2022 |
-| [Android Development with Java](https://www.udemy.com/certificate/UC-9598144a-a133-4e52-bd8a-b844f6790c53/) | Udemy | Jun 2021 |
-| [Deep Learning with Keras and TensorFlow](https://www.coursera.org/account/accomplishments/verify/EDLMK92DY4NK) | IBM | Feb 2021 |
-| [End to End Data Science with KNIME](https://www.udemy.com/certificate/UC-8df52b6a-5b1b-4ab2-ac78-e63ab98467a8/) | Udemy | Sep 2020 |
-| [Java EE Patterns and Architecture](https://www.udemy.com/certificate/UC-aafb52c9-40d3-4114-90be-f8177fd66ee8/) | Udemy | Jan 2020 |
+| Certificate | Issuer |
+|---|---|
+| [SQL Foundations](https://www.coursera.org/account/accomplishments/verify/D2OLJBDPE0TX) | Microsoft |
+| [Introduction to Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/1H2WOFIHLDOP) | IBM |
+| [Complete iOS 16 Development with SwiftUI](https://www.udemy.com/certificate/UC-88106e34-77e0-4cde-b44e-22e22deba4a4/) | Udemy |
+| [Machine Learning with Python](https://www.udemy.com/certificate/UC-d1472294-8283-4077-9274-2960eec38a7f/) | Udemy |
+| [Android Development with Java](https://www.udemy.com/certificate/UC-9598144a-a133-4e52-bd8a-b844f6790c53/) | Udemy |
+| [Deep Learning with Keras and TensorFlow](https://www.coursera.org/account/accomplishments/verify/EDLMK92DY4NK) | IBM |
+| [End to End Data Science with KNIME](https://www.udemy.com/certificate/UC-8df52b6a-5b1b-4ab2-ac78-e63ab98467a8/) | Udemy |
+| [Java EE Patterns and Architecture](https://www.udemy.com/certificate/UC-aafb52c9-40d3-4114-90be-f8177fd66ee8/) | Udemy |
 
 ---
 
