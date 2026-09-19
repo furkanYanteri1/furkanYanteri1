@@ -20,7 +20,7 @@ Active markets: Germany, United Kingdom, United Arab Emirates, Australia, Turkey
 |---|---|---|
 | [GoalT](https://goalt.org) | Open source goal graph engine for prioritization, shipped as a Claude Code plugin | Published on PyPI, Apache 2.0 |
 | [Furkan Interior](https://furkaninterior.com) | Booking and operations platform for a commercial cleaning and renovation business | Live, serving real customers |
-| Video Speeder | Canva app that speeds up video beyond the platform's native limit, up to 50x | In Canva app review |
+| [Video Speeder](https://www.canva.com/apps/AAHOGJO1D7A/video-speeder) | Canva app that speeds up video beyond the platform's native limit, up to 50x | Live on the Canva app marketplace |
 | [Otopact](https://otopact.com) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
 | [KelimeYap](https://obliquex.com/apps/kelimeyap) | iOS and Android word game family, React Native and Expo on Supabase | In development |
 
@@ -79,6 +79,8 @@ Next.js, React and TypeScript on Tailwind, server rendered, deployed on Vercel. 
 
 ### Video Speeder, a Canva app
 
+Live on the [Canva app marketplace](https://www.canva.com/apps/AAHOGJO1D7A/video-speeder).
+
 Canva caps video playback speed at 2x. Video Speeder lets a user pick a video already sitting on their canvas, speed it up to 50x, and get the processed result back in place. Built solo, full stack: React and TypeScript on Canva's Apps SDK and App UI Kit, a Node.js and Express backend running native FFmpeg, containerized with Docker.
 
 The interesting parts were the constraints:
@@ -89,7 +91,7 @@ The interesting parts were the constraints:
 - Encoding parameters were tuned to finish reliably inside free tier compute limits, which is what stopped larger files from timing out.
 - Internationalized with Canva's app i18n kit and react-intl.
 
-Currently in Canva's review queue, at the design review stage.
+Reviewed and approved by Canva, and publicly released on the app marketplace on 17 September 2026.
 
 ### Furkan Interior
 
