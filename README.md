@@ -19,12 +19,16 @@ Active markets: Germany, United Kingdom, United Arab Emirates, Australia, Turkey
 | Product | What it is | Status |
 |---|---|---|
 | [GoalT](https://goalt.org) | Open source goal graph engine for prioritization, shipped as a Claude Code plugin | Published on PyPI, Apache 2.0 |
-| [Furkan Interior](https://furkaninterior.com) | Booking and operations platform for a commercial cleaning and renovation business | Live, serving real customers |
-| [Video Speeder](https://www.canva.com/apps/AAHOGJO1D7A/video-speeder) | Canva app that speeds up video beyond the platform's native limit, up to 50x | Live on the Canva app marketplace |
-| [Otopact](https://otopact.com) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
-| [KelimeYap](https://obliquex.com/apps/kelimeyap) | iOS and Android word game family, React Native and Expo on Supabase | In development |
+| [Video Speeder](https://obliquex.com/apps/video-speeder) | Canva app that speeds up video beyond the platform's native limit, up to 50x | Live on the Canva app marketplace, v4 live and v5 update in review |
+| [Otopact](https://otopact.com/tr) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
+| [KelimeYAP](https://www.obliquex.com/apps/kelimeyap) | Cross platform vocabulary learning app for iOS and Android, React Native and Expo on Supabase | Launching October 2026 |
 
 Client work covers web and mobile platforms, AI driven business automation, digital signage systems, and internal planning and workflow software. The current engagement is a global sales refactor for a United States based street furniture manufacturer, described below.
+
+| Client work | What it is | Status |
+|---|---|---|
+| [Furkan Interior](https://furkaninterior.com) | Booking and operations platform for a commercial cleaning and renovation business | Live, serving real customers |
+| [Urbana](https://squadz.space) | Dealer catalog for a United States based street furniture manufacturer | Live demo, working prototype |
 
 ---
 
@@ -63,11 +67,11 @@ Avfortis is a professional system for practicing lawyers in Turkey. Its core is 
 
 Membership is closed by design. Every account is verified against active bar registration, because none of it works unless the person on the other side is genuinely an attorney. The domain sits under the Turkish Attorneys Act (Avukatlık Kanunu no. 1136), with the professional secrecy duty it imposes, and under the personal data protection law (KVKK no. 6698). Verification, messaging and data retention were designed around those rules rather than retrofitted to them, which is the part that shapes most of the architecture.
 
-Shipped in May 2026 and iterating since, currently on 1.0.15, with AI features in development. Closed source.
+Shipped in May 2026 and iterating since, currently on 1.0.15, with AI features in development. Live numbers: more than 1,200 active lawyers, more than 3,500 completed services, and around 75 requests per day. Closed source.
 
 ### Urbana, a dealer catalog for street furniture
 
-Working prototype: **[squadz.space](https://squadz.space)**
+Client work. Live demo and working prototype: **[squadz.space](https://squadz.space)**
 
 Part of a wider engagement with a United States based street furniture manufacturer: a full refactor of how they sell globally, sales strategy included, not only the software that carries it.
 
@@ -79,7 +83,7 @@ Next.js, React and TypeScript on Tailwind, server rendered, deployed on Vercel. 
 
 ### Video Speeder, a Canva app
 
-Live on the [Canva app marketplace](https://www.canva.com/apps/AAHOGJO1D7A/video-speeder).
+Live on the [Canva app marketplace](https://www.canva.com/apps/AAHOGJO1D7A/video-speeder). Product page: [obliquex.com/apps/video-speeder](https://obliquex.com/apps/video-speeder).
 
 Canva caps video playback speed at 2x. Video Speeder lets a user pick a video already sitting on their canvas, speed it up to 50x, and get the processed result back in place. Built solo, full stack: React and TypeScript on Canva's Apps SDK and App UI Kit, a Node.js and Express backend running native FFmpeg, containerized with Docker.
 
@@ -91,22 +95,34 @@ The interesting parts were the constraints:
 - Encoding parameters were tuned to finish reliably inside free tier compute limits, which is what stopped larger files from timing out.
 - Internationalized with Canva's app i18n kit and react-intl.
 
-Reviewed and approved by Canva, and publicly released on the app marketplace on 17 September 2026.
+Reviewed and approved by Canva, and publicly released on the app marketplace on 17 September 2026. Version 4 is live and the version 5 update is in review. Within the first three weeks of launch it reached 1,783 installs and 3,545 unique views.
 
 ### Furkan Interior
 
-A production web platform for a commercial cleaning and renovation business in Ankara: service catalog, booking flow, customer content and an admin side, in Turkish. React and TypeScript with Supabase behind it, plus Three.js and an LLM integration on the content side. Around 480 commits, live at [furkaninterior.com](https://furkaninterior.com) and used by real customers rather than sitting in a portfolio.
+Client work. A production web platform for a commercial cleaning and renovation business in Ankara: service catalog, booking flow, customer content and an admin side, in Turkish. React and TypeScript with Supabase behind it, plus Three.js and an LLM integration on the content side. 494 commits, live at [furkaninterior.com](https://furkaninterior.com) and used by real customers rather than sitting in a portfolio.
 
-### KelimeYap
+### KelimeYAP, a vocabulary learning app
 
-A word game family for iOS and Android, React Native and Expo on Supabase, monetized through ads plus an ad free subscription. Roughly 900 files and 370 commits so far. In development, English release planned.
+**Founder and solo developer. July 2026 to present.** Product page: [obliquex.com/apps/kelimeyap](https://www.obliquex.com/apps/kelimeyap).
+
+A cross platform vocabulary learning app for iOS and Android, built on React Native, Expo and Supabase, launching October 2026. I designed and built it end to end as a solo developer, from product design and data modeling to release on the App Store and Google Play.
+
+- Offline first architecture: on device SQLite with batched delta sync to Supabase (PostgreSQL, row level security, Edge Functions), so the core learning loop works without a connection.
+- Frictionless anonymous authentication with no sign up, code based progress transfer between devices, and one tap data deletion.
+- The monetization layer: RevenueCat subscriptions with introductory offers on both stores, AdMob rewarded and native ads with server side reward verification, and a server authoritative credit economy that is resistant to client tampering.
+- A 5,381 word curriculum across CEFR A1 to C2 plus 540 phrase patterns, with example sentences and an illustrated hint for 5,094 words, and 11,043 film and series based study decks on top.
+- A mission and quiz engine with seven question types and an adaptive review pool, plus an in app AI guide powered by the Anthropic API behind a server side function.
+- The interaction layer on Reanimated and Skia, with scratch to reveal cards and gesture driven swipes, a bilingual UI in Turkish and English, and procedurally synthesized sound effects.
+- Production discipline: 673 unit tests, over the air updates with fingerprint verified runtime matching, crash monitoring with Sentry, push notifications, and a backend migration between regions.
+
+React Native, Expo (EAS Build and Update), TypeScript, Supabase (PostgreSQL, RLS, Edge Functions), SQLite, RevenueCat, AdMob, Reanimated, Skia, i18next, Anthropic API, Sentry.
 
 ---
 
 ## Background
 
 ### Cloudit
-**Software Product Manager. January 2025 to present. London, United Kingdom.**
+**Software Product Manager. July 2024 to present. London, United Kingdom.**
 
 Managing end to end development of a software product with three sub products, from ideation to MVP, and acting as Technical Product Owner on Avfortis, described above. Market research, stakeholder alignment, roadmap and delivery, staying close to QA, UAT and API testing rather than handing specs over the wall. Prioritizing under real ambiguity while keeping delivery velocity intact. Day to day across BlackBoard, Miro, Notion, Jira, Figma, Mixpanel and SurveyMonkey on the product side, and Vue.js, Pinia, MongoDB, Node.js, Express, Firebase, S3, JWT, WebSockets, Elasticsearch and GitHub Actions on the technical side.
 
