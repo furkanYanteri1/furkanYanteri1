@@ -21,7 +21,7 @@ Active markets: Germany, United Kingdom, United Arab Emirates, Australia, Turkey
 | [GoalT](https://goalt.org) | Open source goal graph engine for prioritization, shipped as a Claude Code plugin | Published on PyPI, Apache 2.0 |
 | [Video Speeder](https://obliquex.com/apps/video-speeder) | Canva app that speeds up video beyond the platform's native limit, up to 50x | Live on the Canva app marketplace, v4 live and v5 update in review |
 | [Otopact](https://otopact.com/tr) | Two sided platform connecting vehicle owners with authorized service providers | In development, first markets targeted for Q1 2027 |
-| [KelimeYAP](https://www.obliquex.com/apps/kelimeyap) | Cross platform vocabulary learning app for iOS and Android, React Native and Expo on Supabase | Launching October 2026 |
+| [KelimeYAP](https://www.obliquex.com/apps/kelimeyap) | Cross platform vocabulary learning app for iOS and Android, React Native and Expo on Supabase | Live on the [App Store](https://apps.apple.com/app/id6789972549) and [Google Play](https://play.google.com/store/apps/details?id=com.furkanyanteri.kelimeyapentr) |
 
 Client work covers web and mobile platforms, AI driven business automation, digital signage systems, and internal planning and workflow software. The current engagement is a global sales refactor for a United States based street furniture manufacturer, described below.
 
@@ -103,9 +103,9 @@ Client work. A production web platform for a commercial cleaning and renovation 
 
 ### KelimeYAP, a vocabulary learning app
 
-**Founder and solo developer. July 2026 to present.** Product page: [obliquex.com/apps/kelimeyap](https://www.obliquex.com/apps/kelimeyap).
+**Founder and solo developer. July 2026 to present.** Product page: [obliquex.com/apps/kelimeyap](https://www.obliquex.com/apps/kelimeyap). Live on the [App Store](https://apps.apple.com/app/id6789972549) and [Google Play](https://play.google.com/store/apps/details?id=com.furkanyanteri.kelimeyapentr).
 
-A cross platform vocabulary learning app for iOS and Android, built on React Native, Expo and Supabase, launching October 2026. I designed and built it end to end as a solo developer, from product design and data modeling to release on the App Store and Google Play.
+A cross platform vocabulary learning app for iOS and Android, built on React Native, Expo and Supabase, publicly released on both stores on 7 October 2026. I designed and built it end to end as a solo developer, from product design and data modeling to release on the App Store and Google Play.
 
 - Offline first architecture: on device SQLite with batched delta sync to Supabase (PostgreSQL, row level security, Edge Functions), so the core learning loop works without a connection.
 - Frictionless anonymous authentication with no sign up, code based progress transfer between devices, and one tap data deletion.
